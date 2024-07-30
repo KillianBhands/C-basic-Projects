@@ -8,7 +8,7 @@ int main(){
 	int GUESSES = 0;
 	int USER_GUESS;
 	int DIFFICULTY;
-	
+	// hehie
 	srand(time(0));
 	
 	int ANSWER  = (rand()%MAX)+ MIN;
